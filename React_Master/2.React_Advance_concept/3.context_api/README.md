@@ -1,0 +1,3 @@
+# Context API
+
+- API stands for Application programming interface...
